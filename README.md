@@ -5,14 +5,14 @@ These markdown files will provide all the info you need to get going to onboard 
 Below are the overall steps you need to follow:
 
 1. Decide your integration levelde: Full Tenant (Open API YAML file, Markdown Documentation), Doc Only Tenant, Linkout Tenant (Link to the Tenant Portal). [Linkout_Tenant](./linkout-tenant.md)
-1. Get your info together: Open API YAML file, Markdown Documentation, Product Description, who is it for description and 1-3 UseCases/Popular Services.
-1. Signup for a free github.com account: Each tenant needs to register into github using their Fiserv email address and create an account. Once an account is created, please provide the username/gitId to Developer studio team/Tenant Advocate.
-2. It would help to use Stoplight or Swagger to edit/debug your docs and spec content.
-2a. Swagger at https://swagger.io/
-2b. Spotlight at https://spotlight.io/
-4. A tenant advocate is assigned who would act as a Github admin to help the tenant get started. 
-5. Wait for your tenant space to be provisioned.
-6. Submit your info to a Tenant Advocate by creating a github issue in github.com/fiserv/support : Minimum Required Documents: Getting started markdown file, API specification file (yaml), 1-3 use case (1 use case with 1 related document and 1 related api)
+2. Get your info together: Open API YAML file, Markdown Documentation, Product Description, who is it for description and 1-3 UseCases/Popular Services.
+3. Signup for a free github.com account: Each tenant needs to register into github using their Fiserv email address and create an account. Once an account is created, please provide the username/gitId to Developer studio team/Tenant Advocate.
+4. It would help to use Stoplight or Swagger to edit/debug your docs and spec content.
+4a. Swagger at https://swagger.io/
+4b. Spotlight at https://spotlight.io/
+5. A tenant advocate is assigned who would act as a Github admin to help the tenant get started. 
+6. Wait for your tenant space to be provisioned.
+7. Submit your info to a Tenant Advocate by creating a github issue in github.com/fiserv/support : Minimum Required Documents: Getting started markdown file, API specification file (yaml), 1-3 use case (1 use case with 1 related document and 1 related api)
 7. Structure of the Tenant Repository: The Tenant Advocat will create a repository under Fiserv Git account.    
     1.	Assets/ Images- Folders contain raw images, logos, pdf files etc. These are used to link into a markdown file to display on dev studio.
     2.  Config- folder has document explorer definition yaml file, product-layout yaml file, and tenant json file outlining the structure of documentation, doc tree and product page.
