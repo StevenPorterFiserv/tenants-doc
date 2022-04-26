@@ -2,9 +2,9 @@
 
 These markdown files will provide all the info you need to get going to onboard into the Developer Studio.
 
-Below are the overall steps you need to follow:
+Below are the steps you need to follow:
 
-1. Decide your integration levelde: Full Tenant (Open API YAML file, Markdown Documentation), Doc Only Tenant, Linkout Tenant (Link to the Tenant Portal). [Linkout_Tenant](./linkout-tenant.md)
+1. Decide your integration level: Full Tenant (Open API YAML file, Markdown Documentation), Doc Only Tenant, Linkout Tenant (Link to the Tenant Portal). [Linkout_Tenant](./linkout-tenant.md)
 2. Get your info together: Open API YAML file, Markdown Documentation, Product Description, who is it for description and 1-3 UseCases/Popular Services.
 3. Signup for a free github.com account: Each tenant needs to register into github using their Fiserv email address and create an account. Once an account is created, please provide the username/gitId to Developer studio team/Tenant Advocate.
 4. It would help to use Stoplight or Swagger to edit/debug your docs and spec content.
