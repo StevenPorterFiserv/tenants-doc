@@ -9,3 +9,12 @@ There are three branches: develop, stage, main, that correspond to develop/qa, s
 
 ![git branches](https://github.com/Fiserv/tenants/blob/main/images/gitHubBranches.png "git branches")
 
+
+Configurations files under **config** directory defines tenant/product description, documentation tree, product page layout info
+
+![config files](https://github.com/Fiserv/tenants/blob/main/images/config-files.png "config files")
+
+
+config/document-explorer-definition.yaml defines documetation tree on left navigation panel
+
+![doc tree](https://github.com/Fiserv/tenants/blob/main/images/docs-tree.png "doc tree")
