@@ -2,7 +2,48 @@
 
 These markdown files will provide all the info you need to get going to onboard into the Developer Studio.
 
-Below are the steps you need to follow:
+## Table of Contents
+
+  - [The Studio Community (Metaphor)](#the-studio-community-metaphor)
+    - [What can you do as a Tenant](#what-can-you-do-as-a-tenant)
+    - [What must you do as a Tenant](#what-must-you-do-as-a-tenant)
+    - [What can you NOT do as a Tenant](#what-can-you-not-do-as-a-tenant)
+  - [Directory of files](#directory-of-files)
+  - [Below are the steps you need to follow:](#below-are-the-steps-you-need-to-follow)
+  - [Getting Help](#getting-help)
+  
+## The Studio Community (Metaphor)
+
+The way we describe the Developer Studio is that it is a apartment complex and each of you are tenants within the complex.  (hint: Still not sure what a tenant is checkout the [glossary](./glossary.md))
+
+While we, the DevStudio team, are the HOA.
+
+### What can you do as a Tenant
+Just like how you move into your apartment you can bring along your furntiue (your content) and decorate your apartment (within limits dedicated by the HOA (i.e. DevStudio team)).
+
+1. You create/edit/publish your own documentation and APIs at your liesure
+2. You can provide your own live sandbox
+3. You can provide your own API management system
+
+### What must you do as a Tenant
+Because the Developer Studio is meant to unify all our products under a single portal that means there are guidelines you must follow.
+
+(WIP)
+1. You must have release notes that follow our [template](https://developerstudio.fiserv.com/support/docs/?path=docs/release-notes-template.md)
+2. You must have a getting started section
+3. You must be on open api specification 3.0+
+4. You must use our [Markdown syntax](https://developerstudio.fiserv.com/support/docs/?path=docs/md/basic-syntax.md)
+
+Hint: When in doubt look at [Commerce Hub](https://developerstudio.fiserv.com/product/CommerceHub) as an example of what to do.
+
+### What can you NOT do as a Tenant
+There is pretty little you cannot do.  If you're not sure, shoot us a message using our [Support](https://github.com/fiserv/support/issues).
+
+## Directory of files
+1. [FAQ](./faq.md)
+2. [Glossary](./glossary.md)
+
+## Below are the steps you need to follow:
 
 1. #### Decide your integration level:
     * Full Service Tenant (Open API YAML file, Markdown Documentation and Live Sandbox Integration)
@@ -45,5 +86,13 @@ Below are the steps you need to follow:
     Once you're happy with your content create another github issue to get deployed into upper environments and production
 
     Refer to the table contents to the right to get more details about each step.
+
+## Getting Help
+If you need help, spot bugs, need ehancments or just want to chat you've got some options below.
+
+- Bugs / Enhancements / Questions
+  - Go to our [Support](https://github.com/fiserv/support/issues)
+- Want to chat
+  - Go to MS Teams and search for `Developer Studio from Fiserv`
 
 Ok, let's get started!
