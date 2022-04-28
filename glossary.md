@@ -9,5 +9,6 @@ Within the context of our PORTAL a solution is one of the business lines of Fise
 ## Products
 
 ## Tenant Advocate
+Each Tenant is assigned a tenant advocate, a member of Developer Studio. Tenan Advocate acts as Github admin and helps to onboard all files and answer any technical questions.
 
 ## 
