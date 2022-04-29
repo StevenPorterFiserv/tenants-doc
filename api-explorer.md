@@ -28,3 +28,12 @@ API Exploreer supports the ability to download API specification in openapi 3.0 
 
 ## OpenAPI Specification
 
+> Developr Studio supports OpenAPI Specification Version 3.0 and above
+
+The OpenAPI Specification (OAS) defines a standard, language-agnostic interface to RESTful APIs which allows both humans and computers to discover and understand the capabilities of the service without access to source code, documentation, or through network traffic inspection. When properly defined, a consumer can understand and interact with the remote service with a minimal amount of implementation logic. 
+Refere to [Swagger](https://swagger.io/specification/) for more information on OpenAPI Specification.
+
+
+OpenAPI Document (or set of documents) defines or describes an API. An OpenAPI definition uses and conforms to the OpenAPI Specification.
+
+
