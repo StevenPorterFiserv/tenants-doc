@@ -43,7 +43,8 @@ OpenAPI Document (or set of documents) defines or describes an API. An OpenAPI d
             "releaseNotesPath": "/release-notes/release-notes-11.0.0.md",
             "apiSpecFileNames": [        
               "Accountholder/AddrAdd",
-              "Accountholder/AddrDel"
+              "Accountholder/AddrDel",
+              ...
             ]
           }
         ],
@@ -53,4 +54,11 @@ OpenAPI Document (or set of documents) defines or describes an API. An OpenAPI d
 
 
 ### OpenAPI Document Structure
+
+
+An OpenAPI document MAY be made up of a single document or be divided into multiple, connected parts at the discretion of the user.
+
+It is required that OpenAPI document follows [JSON Schema](https://json-schema.org/)
+
+
 
