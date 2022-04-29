@@ -36,4 +36,21 @@ Refere to [Swagger](https://swagger.io/specification/) for more information on O
 
 OpenAPI Document (or set of documents) defines or describes an API. An OpenAPI definition uses and conforms to the OpenAPI Specification.
 
+       "apiVersions": [
+          {
+            "version": "11.0.0",
+            "versionType": "major",
+            "releaseNotesPath": "/release-notes/release-notes-11.0.0.md",
+            "apiSpecFileNames": [        
+              "Accountholder/AddrAdd",
+              "Accountholder/AddrDel"
+            ]
+          }
+        ],
+
+![api specs](https://github.com/Fiserv/tenants-doc/blob/main/images/multiple-api-specs.png)
+
+
+
+### OpenAPI Document Structure
 
