@@ -84,6 +84,8 @@ Checkout the [demo](./demo.md) page to see demos of our features.
     
 12. #### Read up on how to use your space and modify content: [Configure Tenant](./configure-tenant.md)
 
+13. #### [API Explorer page](./api-explorer.md) and [OpenAPI Specification](https://swagger.io/specification/) Document
+
 14. #### Add content based on your integration level
 
     Once you're happy with your content create another github issue to get deployed into upper environments and production
