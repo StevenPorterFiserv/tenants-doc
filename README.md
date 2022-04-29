@@ -58,7 +58,7 @@ Checkout the [demo](./demo.md) page to see demos of our features.
     * Markdown Documentation, Product Description
     * Who is it for description and 1-3 UseCases/Popular Services.
 
-5. #### Signup for a free github.com account:
+5. #### Signup for a free [github](https://github.com) account:
     * Each tenant needs to register into github using their Fiserv email address and create an account. Once an account is created, please provide the Github username/registered email address to Developer studio team/Tenant Advocate.
 
 7. #### It would help to use Stoplight or Swaggerhub Editor to edit/debug your docs and spec contents.
