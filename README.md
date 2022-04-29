@@ -29,7 +29,7 @@ Just like how you move into your apartment you can bring along your furntiue (yo
 Because the Developer Studio is meant to unify all our products under a single portal that means there are guidelines you must follow.
 
 (WIP)
-1. You must have release notes that follow our [template](https://developerstudio.fiserv.com/support/docs/?path=docs/release-notes-template.md)
+1. You must have release notes that follow our [template](./release-notes-template.md)
 2. You must have a getting started section
 3. You must be on open api specification 3.0+
 4. You must use our [Markdown syntax](https://developerstudio.fiserv.com/support/docs/?path=docs/md/basic-syntax.md)
