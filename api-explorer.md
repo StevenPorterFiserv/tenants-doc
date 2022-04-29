@@ -56,9 +56,43 @@ OpenAPI Document (or set of documents) defines or describes an API. An OpenAPI d
 ### OpenAPI Document Structure
 
 
-An OpenAPI document MAY be made up of a single document or be divided into multiple, connected parts at the discretion of the user.
-
 It is required that OpenAPI document follows [JSON Schema](https://json-schema.org/)
 
+An OpenAPI document MAY be made up of a single document or be divided into multiple, connected parts at the discretion of the user.
+Sample of 
+
+       openapi: 3.0.0
+       info:
+         title: Address Service - Add
+         description: The Address service manages addresses related to parties and product accounts.
+         version: 11.0.0
+       servers:
+       - url: /
+       paths:
+         /address:
+           post:
+              tags:
+              - Add Address
+              summary: Add Address
+              description: ""
+              operationId: addAddress
+              parameters:
+              requestBody:
+              responses:
+                "201":
+              deprecated: false
+              x-group-name: Address Service
+              x-proxy-name: Add Address
+              x-child-product-name: Accountholder
+             
+
+
+Last three fields are used to group API end-points into meaningfull features, where
+
+              x-proxy-name: API end-point name
+              x-group-name: API end-point group
+              x-child-product-name: parent group of API end-point group
+              
+![api groups](https://github.com/Fiserv/tenants-doc/blob/main/images/api-groups.png)
 
 
