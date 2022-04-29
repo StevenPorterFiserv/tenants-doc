@@ -3,12 +3,12 @@
 These markdown files will provide all the info you need to get going to onboard into the Developer Studio.
 
 ## Table of Contents
-
   - [The Studio Community (Metaphor)](#the-studio-community-metaphor)
     - [What can you do as a Tenant](#what-can-you-do-as-a-tenant)
     - [What must you do as a Tenant](#what-must-you-do-as-a-tenant)
     - [What can you NOT do as a Tenant](#what-can-you-not-do-as-a-tenant)
   - [Directory of files](#directory-of-files)
+  - [Developer Studio Demos](#developer-studio-demos)
   - [Below are the steps you need to follow:](#below-are-the-steps-you-need-to-follow)
   - [Getting Help](#getting-help)
   
@@ -42,6 +42,9 @@ There is pretty little you cannot do.  If you're not sure, shoot us a message us
 ## Directory of files
 1. [FAQ](./faq.md)
 2. [Glossary](./glossary.md)
+
+## Developer Studio Demos
+Checkout the [demo](./demo.md) page to see demos of our features.
 
 ## Below are the steps you need to follow:
 
