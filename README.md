@@ -69,24 +69,25 @@ Checkout the [demo](./demo.md) page to see demos of our features.
 
 7. #### Wait for your tenant space to be provisioned.
 
-9. #### Submit your info to a Tenant Advocate by creating a github issue in github.com/fiserv/support :
-10. #### Minimum Required Documents: 
+9. #### Submit your info to a Tenant Advocate by creating a github issue in github.com/fiserv/support
+    * Use the label `New Tenant` when you create the issue
+1.  #### Minimum Required Documents: 
     * Getting started markdown file
     * API specification file (yaml)
     * 1-3 use case (1 use case with 1 related document and 1 related api)
     
-11. #### Structure of the Tenant Repository: The Tenant Advocate will create a repository under Fiserv Git account.    
+2.  #### Structure of the Tenant Repository: The Tenant Advocate will create a repository under Fiserv Git account.    
     * Assets/ Images- Folders contain raw images, logos, pdf files etc. These are used to link into a markdown file to display on dev studio.
     * Config- folder has document explorer definition yaml file, product-layout yaml file, and tenant json file outlining the structure of documentation, doc tree and product page.
     * Docs- Contains all markdown files that gets displayed on documentation explorer part of Dev Studio. The documentation is captured in markdown format (.md file) only.
     * References- Contains all api yaml files that gets displayed on API explorer part of Dev Studio for one or more version. All API yaml files must contain a version number so that the right yaml is fetched. The same version number must be referenced in the tenant json file
     * Docignore files- files to be ignored- examples archived files
     
-12. #### Read up on how to use your space and modify content: [Configure Tenant](./configure-tenant.md)
+3.  #### Read up on how to use your space and modify content: [Configure Tenant](./configure-tenant.md)
 
-13. #### [API Explorer page](./api-explorer.md) and [OpenAPI Specification](https://swagger.io/specification/) Document
+4.  #### [API Explorer page](./api-explorer.md) and [OpenAPI Specification](https://swagger.io/specification/) Document
 
-14. #### Add content based on your integration level
+5.  #### Add content based on your integration level
 
     Once you're happy with your content create another github issue to get deployed into upper environments and production
 

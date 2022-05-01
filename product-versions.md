@@ -9,7 +9,7 @@ Product and API Versioning has been enabled to view Preview, Active and Previous
  - create reliable mechanism to view old/archived versions of tenant files.
 
 
-![product versions](https://github.com/Fiserv/tenants-doc/blob/main/images/product-versions.png)
+![product versions](./images/product-versions.png)
 
 
 ### Version git Branches
@@ -19,5 +19,5 @@ Product and API Versioning has been enabled to view Preview, Active and Previous
   PREVIOUS - archived branch previously released from develop
   
   
-![version branches](https://github.com/Fiserv/tenants-doc/blob/main/images/version-branches.png)
+![version branches](./images/version-branches.png)
 
