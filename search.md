@@ -3,7 +3,7 @@ Developer Studio will do a full text search on tenant’s data by using Elastic 
 
 
 # Indexing
-Indexing crawler will visit each tenant's repo on the mentioned time and scan and update indexes with new data if anything got changed.
+Indexing crawler will visit each tenant's repo on the mentioned time intervals to scan and update indexes with new data if anything got changed.
 The indexing time frequency is following on each env:
 
 
