@@ -25,9 +25,12 @@ There are **three git branches** that are required:
 ![git branches](./images/gitHubBranches.png "git branches")
 
 
+### Developer Studio Release Schedule 
+
 Developer Studio is on two week sprint schedule.
 That means at the end of the sprint, every other Friday, dev code will be deployed to qa.
 On the following Thursday (third week of the start of the sprint) qa code will be deployed to stage.
 And finally on Thursday (fourth week of the start of the sprint) stage code is deployed to production.
 
-Tenant responsibility is to sync up github repository according to studio release schedule.
+
+> Tenant is responsible to sync up github repository in accordance with Developer Studio release schedule.
