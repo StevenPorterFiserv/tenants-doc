@@ -5,7 +5,7 @@
 dev, qa, stage evironment require authentication credentials. Your tenant advocate will provide them.
 Credentials are not be shared with your clients. Consult with your tenant advocate.
 
-<img src="./images/signin-auth.png" alt="signin auth" style="max-width: 50%;">
+<img src="./images/signin-auth.png" alt="signin auth" style="max-width: 50%;" width="480">
 
   - [dev](https://dev-developerstudio.fiserv.com)
   - [qa](https://qa-developerstudio.fiserv.com)
