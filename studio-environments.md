@@ -9,7 +9,7 @@ Credentials are not be shared with your clients. Consult with your tenant advoca
 
 
   - [dev](https://dev-developerstudio.fiserv.com)
-  - [qa]((https://qa-developerstudio.fiserv.com))
+  - [qa](https://qa-developerstudio.fiserv.com)
   - [stage](https://stage-developerstudio.fiserv.com)
   - [production](https://developer.fiserv.com)
 
