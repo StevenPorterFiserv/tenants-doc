@@ -5,7 +5,7 @@
 dev, qa, stage evironment require authentication credentials. Your tenant advocate will provide them.
 Credentials are not be shared with your clients. Consult with your tenant advocate.
 
-<img src="./images/signin-auth.png" alt="signin auth" style="max-width: 50%;" width="480">
+<img src="./images/signin-auth.png" alt="signin auth" style="max-width: 50%;" width="400">
 
   - [dev](https://dev-developerstudio.fiserv.com)
   - [qa](https://qa-developerstudio.fiserv.com)
@@ -32,4 +32,4 @@ On the following Thursday (third week of the start of the sprint) qa code will b
 And finally on Thursday (fourth week of the start of the sprint) stage code is deployed to production.
 
 
-> Tenant is responsible to sync up github repository in accordance with Developer Studio release schedule.
+      Tenant is responsible to sync up github repository in accordance with Developer Studio release schedule.
