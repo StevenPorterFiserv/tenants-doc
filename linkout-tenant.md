@@ -1,4 +1,4 @@
-# Basic Information Required For Linkout Tenants:
+# Basic Information Required For Tenants:
 
 Here are some of the details which we would need to add your product as a Link out tenant.
 
