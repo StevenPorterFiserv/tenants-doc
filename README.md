@@ -51,7 +51,7 @@ Checkout the [demo](./demo.md) page to see demos of our features.
 1. #### Decide your integration level:
     * Full Service Tenant (Open API YAML file, Markdown Documentation and Live Sandbox Integration)
     * Doc Only Tenant (Open API YAML file, Markdown Documentation and Prism Mock Server Integration)
-    * Linkout Tenant (External link to the Tenant Developer  Portal). [Linkout_Tenant](./linkout-tenant.md)
+    * Linkout Tenant (External link to the Tenant Developer  Portal). [Tenant_Requirement](./linkout-tenant.md)
 
 3. #### Get your info together: 
     * Open API Spec file in YAML format (Version 3.0.0 and above)
