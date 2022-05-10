@@ -85,7 +85,10 @@ Checkout the [demo](./demo.md) page to see demos of our features.
     
 3.  #### Read up on how to use your space and modify content: [Configure Tenant](./configure-tenant.md)
 
-4.  #### [API Explorer page](./api-explorer.md) and [OpenAPI Specification](https://swagger.io/specification/) Document
+4.  #### OpenAPI spec and API Explorer page
+    * [OpenAPI Specification Document](https://swagger.io/specification/)
+    * [API Explorer page](./api-explorer.md)
+    * [How to enable sandbox](./enable-sandbox.md)
 
 5.  #### Add content based on your integration level
 
