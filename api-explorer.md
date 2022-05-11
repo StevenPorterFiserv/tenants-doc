@@ -96,3 +96,4 @@ Last three fields are used to group API end-points into meaningfull features, wh
 ![api groups](./images/api-groups.png)
 
 
+[Enable Sandbox](./enable-sandbox.md)
