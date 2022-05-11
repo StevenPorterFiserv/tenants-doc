@@ -32,9 +32,9 @@ Because the Developer Studio is meant to unify all our products under a single p
 1. You must have release notes that follow our [template](./release-notes-template.md)
 2. You must have a getting started section
 3. You must be on open api specification 3.0+
-4. You must use our [Markdown syntax](https://developerstudio.fiserv.com/support/docs/?path=docs/md/basic-syntax.md)
+4. You must use our [Markdown syntax](https://developer.fiserv.com/support/docs/?path=docs/md/basic-syntax.md)
 
-Hint: When in doubt look at [Commerce Hub](https://developerstudio.fiserv.com/product/CommerceHub) as an example of what to do.
+Hint: When in doubt look at [Commerce Hub](https://developer.fiserv.com/product/CommerceHub) as an example of what to do.
 
 ### What can you NOT do as a Tenant
 There is pretty little you cannot do.  If you're not sure, shoot us a message using our [Support](https://github.com/fiserv/support/issues).
@@ -99,6 +99,7 @@ Checkout the [demo](./demo.md) page to see demos of our features.
 ## Getting Help
 If you need help, spot bugs, need ehancments or just want to chat you've got some options below.
 
+- [How to Get Support](./get-support.md)
 - Bugs / Enhancements / Questions
   - Go to our [Support](https://github.com/fiserv/support/issues)
 - Want to chat
