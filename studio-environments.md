@@ -38,4 +38,4 @@ On the following Thursday (third week of the start of the sprint) qa code will b
 And finally on Thursday (fourth week of the start of the sprint) stage code is deployed to production.
 
 
-      The tenant is responsible for **syncing up github repository** in accordance with Developer Studio release schedule.
+      The tenant is responsible for syncing up github repository in accordance with Developer Studio release schedule.
