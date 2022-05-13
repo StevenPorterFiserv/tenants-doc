@@ -28,11 +28,10 @@ Just like how you move into your apartment you can bring along your furntiue (yo
 ### What must you do as a Tenant
 Because the Developer Studio is meant to unify all our products under a single portal that means there are guidelines you must follow.
 
-(WIP)
-1. You must have release notes that follow our [template](./release-notes-template.md)
-2. You must have a getting started section
+1. You must have API documentation in markdown format and for that use our[Markdown syntax](https://developer.fiserv.com/support/docs/?path=docs/md/basic-syntax.md)
+2. You must have a getting started section.
 3. You must be on open api specification 3.0+
-4. You must use our [Markdown syntax](https://developer.fiserv.com/support/docs/?path=docs/md/basic-syntax.md)
+4. You must have release notes that follow our [template](./release-notes-template.md)
 
 Hint: When in doubt look at [Commerce Hub](https://developer.fiserv.com/product/CommerceHub) as an example of what to do.
 
