@@ -6,7 +6,7 @@ Here are some of the details which we would need to add your product to Develope
 
 **Description:**     (max 800 chars)
 
-**Who Is It For:**    (max 150 chars)
+**Who Is It For:**    Product tags Industry
 
 **Solution Name:**  Where do you want to stay in Merchants solution or Financial Institutions category ( based on the services your product serves)
 
@@ -20,7 +20,10 @@ Here are some of the details which we would need to add your product to Develope
 
 * _Integration Type:_  Restful/ SOAP/ SDK/ XML
 
-* _Customer Segment:_    For Merchants: Small Medium Business (SMB) / Enterprise. For Financial Institutions: Bank / Credit Union / Large FI.
+* _Customer Segment:_    
+
+        * Merchants: Small Medium Business (SMB) / Enterprise. 
+        * Financial Institutions: Bank / Credit Union / Large FI.
  
 * _Industry:_     Which industry(s) does it belongs to? Is it Retail, Banking, Hospitality, Money Transfer, Insurance, Telecommunications, etc
 
