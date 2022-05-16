@@ -31,7 +31,7 @@ There are couple of steps to follow for the prism mock server to work.
 
   `npm install -g @stoplight/prism-cli`
 
-3. We encorrage to test the openAPI spec locally before pushing the changes to GitHub
+3. We encourage you to test the openAPI spec locally before pushing the changes to GitHub
 
   `prism mock <your yaml file name>`
  
