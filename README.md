@@ -28,10 +28,11 @@ Just like how you move into your apartment you can bring along your furntiue (yo
 ### What must you do as a Tenant
 Because the Developer Studio is meant to unify all our products under a single portal that means there are guidelines you must follow.
 
-1. You must have API documentation in markdown format and for that use our[Markdown syntax](https://developer.fiserv.com/support/docs/?path=docs/md/basic-syntax.md)
-2. You must have a getting started section.
-3. You must be on open api specification 3.0+
-4. You must have release notes that follow our [template](./release-notes-template.md)
+1. You must provide [Basic Tenant Required](./tenant-basics.md) such as name, desctiption, solutiion, product tags, etc.
+2. You must have API documentation in markdown format and for that use our[Markdown syntax](https://developer.fiserv.com/support/docs/?path=docs/md/basic-syntax.md)
+3. You must have a getting started section.
+4. You must be on open api specification 3.0+
+5. You must have release notes that follow our [template](./release-notes-template.md)
 
 Hint: When in doubt look at [Commerce Hub](https://developer.fiserv.com/product/CommerceHub) as an example of what to do.
 
@@ -50,7 +51,7 @@ Checkout the [demo](./demo.md) page to see demos of our features.
 1. #### Decide your integration level:
     * Full Service Tenant (Open API YAML file, Markdown Documentation and Live Sandbox Integration)
     * Doc Only Tenant (Open API YAML file, Markdown Documentation and [Prism Mock Server Integration](./Prism-Mock-Server.md)
-    * Linkout Tenant (External link to the Tenant Developer  Portal). [Tenant_Requirement](./linkout-tenant.md)
+    * Linkout Tenant (External link to the Tenant Developer  Portal). [Basic Tenant_Requirement](./tenant-basics.md)
 
 3. #### Get your info together: 
     * Open API Spec file in YAML format (Version 3.0.0 and above)
