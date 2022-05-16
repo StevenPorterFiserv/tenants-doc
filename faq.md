@@ -12,6 +12,8 @@
 * Do you have insight to the corporate vision for whether https://docs.firstdata.com/ and https://developer.fiserv.com will live on in parallel or eventually converge?
   * Will converge in the end.  For now, as we transition your content you’ll have both until you get enough feature parity and then you’ll shutdown the old portal.
 
+* How can Tenants decide which solution/category they should choose? Does Devportal allow a Prodcut to reside on multiple solution areas?
+
 * How can Tenants integrate their Products with Developer Studio?
    *
    
