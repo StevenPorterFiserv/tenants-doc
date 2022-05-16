@@ -12,37 +12,34 @@
 * Do you have insight to the corporate vision for whether https://docs.firstdata.com/ and https://developer.fiserv.com will live on in parallel or eventually converge?
   * Will converge in the end.  For now, as we transition your content you’ll have both until you get enough feature parity and then you’ll shutdown the old portal.
 
-* How do I integrate with Developer Studio?
+* How can Tenants integrate their Products with Developer Studio?
    *
    
-* How to segregate my content based on the customer segments?
+* How can Tenants segregate the product contents based on the customer segments?
 
 
 * What do you mean by popular services & Available services?
 
 
-* How and where can I provide tags for my product? is it in GitHub?
+* How and where can Tenants provide tags for their product? is it in GitHub?
 
 
-* How do I get access to GitHub repository?
+* How can Tenants administer the GitHub repository?
 
 
-* How do I get access to Prism Mock server?
+* How do Tenants get access to Prism Mock server and make them work?
 
 
-* How to make Prism mock server work?
+* How do Tenants integrate their contents with Live Server?
 
 
-* How do I integrate with Live Server?
+* Is there a way to hide/exclude documentations from showing up on the UI?
 
 
-* How do I hide/exclude documentation from showing up on the UI?
+* How does one generate the API keys?
 
 
-* How do I generate API keys?
-
-
-* How do I get access to the CI/CD pipelines?
+* How can one get access to the CI/CD pipelines?
 
 
 * How much time does it take to reflect the docs and APIs? How often does the content get refreshed in production environment?
