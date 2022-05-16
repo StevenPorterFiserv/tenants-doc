@@ -35,4 +35,13 @@ There are couple of steps to follow for the prism mock server to work.
 
   `prism mock <your yaml file name>`
  
-4. Finally once you are done updating the spec files please let us know we would need to setup up an actual mock server and enable the Run Button.
+4. Finally once you are done updating the spec files please let us know we would need to setup up an actual mock server.
+
+5. To enable the Run Button, product sandbox & feature sandbox has to be set in **config/tenant.json** file:
+
+             "sandbox": "/v1/sandboxrun/<tenant name>",
+             "feature":[
+              {
+                "name": "sandBox",
+                "value": true
+              },
