@@ -50,7 +50,7 @@ Checkout the [demo](./demo.md) page to see demos of our features.
 
 1. #### Decide your integration level:
     * Full Service Tenant (Open API YAML file, Markdown Documentation and Live Sandbox Integration)
-    * Doc Only Tenant (Open API YAML file, Markdown Documentation and [Prism Mock Server Integration](./Prism-Mock-Server.md)
+    * Doc Only Tenant (Open API YAML file, Markdown Documentation and [Prism Mock Server Integration](./enable-sandbox.md)
     * Linkout Tenant (External link to the Tenant Developer  Portal). [Basic Tenant Information](./tenant-basics.md)
 
 3. #### Get your info together: 
