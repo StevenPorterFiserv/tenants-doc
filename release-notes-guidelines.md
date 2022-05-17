@@ -2,7 +2,7 @@
 
 ## Developer Studio Release Notes
 
-Developer Studio arranges release notes into three section: 
+Developer Studio arranges release notes into three sections: 
 
   * what's new
   * enhancements
@@ -15,7 +15,7 @@ Developer Studio arranges release notes into three section:
 **Fixed** section lists uninteded application behaviour that Developer Studio engineers have pattched or found a work-arround to correct.
 
 
-The eveloper writing release notes needs to describe the change in terms of application behaviour as it would appear to the use avoiding confusing implementation details.
+The developer writing release notes needs to describe the change in terms of application behaviour as it would appear to the use avoiding confusing implementation details.
 
 
 ## Tenant Release Notes
