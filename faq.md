@@ -20,7 +20,9 @@
 * How can Tenants segregate the product contents based on the customer segments?
 
 
-* What do you mean by popular services & Available services?
+* What do you mean by Available services & Popular services?
+   * Available service means the range of the service/facilities the product provides.
+   * Popular service means the frequently usd/demanded service/facilities of the product.
 
 
 * How and where can Tenants provide tags for their product? is it in GitHub?
