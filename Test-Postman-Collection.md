@@ -1,6 +1,6 @@
 # How to Download and Test the Postman Collection
 
-# Download the API Postman Collection
+## Download the API Postman Collection
 Download the Postman collection on the API explorer page the using the Download Postman Collection button and download the json file in your local which you have to unzip and then you can directly import in your local postman.
 
 <img width="419" alt="image" src="https://user-images.githubusercontent.com/87097017/168697951-d00b6965-7858-4864-8b9d-03c6a4330e16.png">
@@ -11,20 +11,20 @@ Import the downloaded json file in the Postman application from your computer.
 
 
 
-# Prerequiste
+## Prerequiste
 Postman
 
-# Getting Started
+## Getting Started
 To get started you can either fork the collection workspace within Postman or import the collection JSON file from this repo.
 
-# Import the collection file into your workspace
+## Import the collection file into your workspace
 If you don't want to fork the collection from the public workspace, you can import it from this repo.
 
 Within your Postman workspace select the Import button
 
 Next copy the downloaded APICollection.json contents and paste in the Paste Raw Text section of the import dialog
 
-# Set your API key
+## Set your API key
 
-# Make a test call
+## Make a test call
 You should be ready now to make a test call. 
