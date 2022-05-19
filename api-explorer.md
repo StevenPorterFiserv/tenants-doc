@@ -97,3 +97,8 @@ Last three fields are used to group API end-points into meaningfull features, wh
 
 
 [Enable Sandbox](./enable-sandbox.md)
+
+### Default Example
+
+Enhance experience for tenants so they can set default example that can be viewed in run box by default.
+![default-example](./images/default-example.png)
