@@ -40,7 +40,7 @@
   
 
 * Is there a way to hide/exclude documentations from showing up on the UI?
-  * Tenant can use `.docignore` File present in every tenant github repository. By just passing the path of the document file, tenant would like to           exclude from the UI rendering. 
+  * Tenant can use `.docignore` File present in every tenant github repository. By just passing the path of the .md file(s), tenant can exclude from showing up on the UI. 
 
 * How does one generate the API keys?
 
