@@ -26,19 +26,21 @@
 
 
 * How and where can Tenants provide tags for their product? is it in GitHub?
+   * Dev Studio no longer support Beta tags.
 
 
 * How can Tenants administer the GitHub repository?
+   * Initially Tenant team will only have maintainer access. Once everything is more content within Tenant repo, Tenant Advocate should provide        githb repo admin access to Tenant Team maintainer. 
 
 
 * How do Tenants get access to Prism Mock server and make them work?
-
+  * Prism Mock Server is integrated within Dev Studio architecture. Tenant won't have any access to Prism Mock Server. Tenant developer can test Prism       mock server functionality by installing on development machine via https://github.com/stoplightio/prism. 
 
 * How do Tenants integrate their contents with Live Server?
-
+  
 
 * Is there a way to hide/exclude documentations from showing up on the UI?
-
+  * Tenant can use `.docignore` File present in every tenant github repository. By just passing the path of the document file, tenant would like to           exclude from the UI rendering. 
 
 * How does one generate the API keys?
 
@@ -55,4 +57,5 @@
 * Is there a way to quickly convert my swagger 2.0 specs to OpenAPI spec?
 
 
-* Is the doc tree or API explorer cached? 
+* Is the doc tree or API explorer cached?
+  * Doc tree is cached
