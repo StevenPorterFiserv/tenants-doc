@@ -31,9 +31,13 @@ There are couple of steps to follow for the prism mock server to work.
 
   `npm install -g @stoplight/prism-cli`
 
-3. We encourage you to test the openAPI spec locally before pushing the changes to GitHub
+3. We encourage you to test the openAPI spec in [Swagger Editor](https://editor.swagger.io/) and locally, before pushing the changes to GitHub
 
   `prism mock <your yaml file name>`
+  
+4. Once prism has started, all the endpoints will be listed from the yaml file provided. Postman could be used to send a request and receive a response. To specify a prefered example for a particular endpoint use **Prefer** header with value `example=EndPointSample`
+
+![start prism locally](./images/prism-postman-run.png)
  
 4. Finally once you are done updating the spec files please let us know we would need to setup up an actual mock server.
 
