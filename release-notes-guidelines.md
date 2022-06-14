@@ -1,6 +1,6 @@
 # Release Notes Guidelines
 
-A developer writing release notes needs to describe the change in terms of the enhanced experience to the end-user.
+A developer writing release notes needs to describe the change in terms of the enhanced experience to the end-user, such as changes to the documentation or APIs.
 
 
 ## Tenant Release Notes
@@ -12,10 +12,10 @@ It is a Developer Studio **requirement** for all tenants to document onboarding 
   * release notes sections
 
 
-**GitHub structure** for release notes is *tenant-name/docs/release-notes/year/month.md*. 
+**GitHub structure** for release notes is *tenant-name/docs/release-notes.md*. 
 Developer Studio began mandating the specific location in order to make it uniform across all tenants and to index release notes in the future.
 
-    developer-studio-support/docs/release-notes/2022/april.md
+    developer-studio-support/docs/release-notes.md
   
 
 **The left navigation** structure for tenant documents is defined by *tenant-name/config/document-explorer-definition.yaml* file.
@@ -23,7 +23,7 @@ Developer Studio began mandating the specific location in order to make it unifo
     developer-studio-support/config/document-explorer-definition.yaml
 
 
-The requirement is to have Release notes section at the top tier of the document tree.
+The requirement is to have Release notes section at the top level/tier of the document tree.
 
     - sections:
       - title: Getting Started
@@ -31,17 +31,15 @@ The requirement is to have Release notes section at the top tier of the document
 
     - sections:
       - title: Release notes
-        sections:
-        - title: May 2022
-          link: docs/release-notes/2022/may.md
+        link: docs/release-notes.md
 
 
 When creating release notes please include the following information:
 
   * Title of the document, the header (H1), is always *Release Notes*
-  * Publication date, in format: Month date, year
-  * Version of openAPI document, in header H3
-  * Recommended sections, in H2
+  * Publication date, in H3 format: Month date, year
+  * Version of openAPI document, plain text
+  * Recommended sections, in H4
   
   **Release notes sections** are described in [release notes template](./release-notes-template.md).
 
@@ -58,5 +56,6 @@ It is a requirement to have published release notes in order for a Tenant to be 
   * Production
 
 
-Any changes to the content after the initial release should go into release notes. 
-The addition to release notes files should be reflected in the doc tree.
+Any changes to the content after the initial release should go into release notes under *the change date* at the top of the file. So that the newer changes will be at the top of the document, followed by the older changes, with the oldest changes at the bottom of the document.
+
+We propose to have one Release notes document for an entire year with the latest changes up on top.
