@@ -12,10 +12,10 @@ It is a Developer Studio **requirement** for all tenants to document onboarding 
   * release notes sections
 
 
-**GitHub structure** for release notes is *tenant-name/docs/release-notes.md*. 
+**GitHub structure** for release notes is *tenant-name/docs/release-notes/2022.md*. 
 Developer Studio began mandating the specific location in order to make it uniform across all tenants and to index release notes in the future.
 
-    developer-studio-support/docs/release-notes.md
+    developer-studio-support/docs/release-notes/2022.md
   
 
 **The left navigation** structure for tenant documents is defined by *tenant-name/config/document-explorer-definition.yaml* file.
@@ -29,9 +29,10 @@ The requirement is to have Release notes section at the top level/tier of the do
       - title: Getting Started
         link: docs/getting-started.md
 
-    - sections:
       - title: Release notes
-        link: docs/release-notes.md
+        sections:
+        - title: 2022
+          link: docs/release-notes/2022.md
 
 
 When creating release notes please include the following information:
