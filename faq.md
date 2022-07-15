@@ -49,7 +49,9 @@
 
 
 * How much time does it take to reflect the docs and APIs? How often does the content get refreshed in production environment?
-
+  * Updated documents are refelcted immediately via Github webhooks.
+  * APIs are updated on different interval per environment.
+     - PROD ( On Production deployment day)
 
 * Can we automate so that new APIs get discovered?
 
@@ -58,4 +60,5 @@
 
 
 * Is the doc tree or API explorer cached?
-  * Doc tree is cached
+  * Doc tree is cached in redis
+  * Api Explorer is cached in Elastic
