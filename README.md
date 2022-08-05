@@ -19,7 +19,7 @@ The way we describe the Developer Studio is that it is a apartment complex and e
 While we, the DevStudio team, are the HOA.
 
 ### What can you do as a Tenant
-Just like how you move into your apartment you can bring along your furntiue (your content) and decorate your apartment (within limits dedicated by the HOA (i.e. DevStudio team)).
+Just like how you move into your apartment you can bring along your furniture (your content) and decorate your apartment (within limits dedicated by the HOA (i.e. DevStudio team)).
 
 1. You create/edit/publish your own documentation and APIs at your liesure
 2. You can provide your own live sandbox
