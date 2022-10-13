@@ -63,13 +63,13 @@ Checkout the [demo](./demo.md) page to see demos of our features.
 
 7. #### It would help to use Stoplight or Swaggerhub Editor to edit/debug your docs and spec contents.
      * Swagger at https://fiserv-portal.stoplight.io/
-     * Spotlight at https://editor.swagger.io/)
+     * Spotlight at https://editor.swagger.io/
      
 5. #### A tenant advocate is assigned who would act as a Github admin to help the tenant get started. 
 
 7. #### Wait for your tenant space to be provisioned.
 
-9. #### Submit your info to a Tenant Advocate by creating a github issue in [Support]([https://github.com/fiserv/support/issues](https://github.com/Fiserv/Support/issues/new?assignees=&labels=enhancement&template=feature.md&title=). 
+9. #### Submit your info to a Tenant Advocate by creating a github issue in [Support](https://github.com/Fiserv/Support/issues/new?assignees=&labels=enhancement&template=feature.md&title=). 
     * Use the label `New Tenant` when you create the issue
 1.  #### Minimum Required Documents: 
     * Getting started markdown file
