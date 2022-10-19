@@ -1,6 +1,6 @@
 # Enable Sandbox
 
-We offer two ways to test services defined by OpenAPI specification in Developer Studio. One way is to connect tenant openAPI spec to tenan sandbox. The other way to test an endpoint is to setup a mock server. We use [Stoplight Prism](https://meta.stoplight.io/docs/prism/ZG9jOjYx-overview) Mock server.
+We offer two ways to test services defined by OpenAPI specification in Developer Studio. One way is to connect tenant openAPI spec to tenant's own sandbox. The other way to test an endpoint is to setup a mock server with Developer Studio. We use [Stoplight Prism](https://meta.stoplight.io/docs/prism/ZG9jOjYx-overview) Mock server.
 
 
 ## Tenant Sandbox
