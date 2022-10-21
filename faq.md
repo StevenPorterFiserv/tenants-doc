@@ -12,7 +12,7 @@
 * Do you have insight to the corporate vision for whether https://docs.firstdata.com/ and https://developer.fiserv.com will live on in parallel or eventually converge?
   * Will converge in the end.  For now, as we transition your content you’ll have both until you get enough feature parity and then you’ll shutdown the old portal.
 
-* How can Tenants decide which solution/category they should choose? Does Devportal allow a Prodcut to reside on multiple solution areas?
+* How can Tenants decide which solution/category they should choose? Does Devportal allow a Product to reside on multiple solution areas?
 
 * How can Tenants integrate their Products with Developer Studio?
    *
@@ -30,7 +30,7 @@
 
 
 * How can Tenants administer the GitHub repository?
-   * Initially Tenant team will only have maintainer access. Once everything is more content within Tenant repo, Tenant Advocate should provide        githb repo admin access to Tenant Team maintainer. 
+   * Initially Tenant team will only have maintainer access. Once everything is more content within Tenant repo, Tenant Advocate should provide        github repo admin access to Tenant Team maintainer. 
 
 
 * How do Tenants get access to Prism Mock server and make them work?
@@ -49,7 +49,7 @@
 
 
 * How much time does it take to reflect the docs and APIs? How often does the content get refreshed in production environment?
-  * Updated documents are refelcted immediately via Github webhooks.
+  * Updated documents are reflected immediately via Github webhooks.
   * APIs are updated on different interval per environment.
      - PROD ( On Production deployment day)
 
